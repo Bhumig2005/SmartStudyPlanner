@@ -1,0 +1,32 @@
+Smart Study Planner Report
+==========================
+Total subjects: 10
+Total tasks: 9
+Completed tasks: 3
+Pending tasks: 6
+Progress: 33%
+
+Subjects
+--------
+9. computer organizaion and architecture - cpu design,memory hierarchy,computer fundamentals
+5. Data science - feature engineering,Linear regression , supervised learning
+2. DBMS - MySQL, SQL queries, and database design
+4. DCN - dijsktra,IP address,subnetting
+10. Design analysis algorithm - divide and conquer,greedy algorithm,dynamic programming
+8. Elements of ai/ml - model evaluation,machine learning,deep learning
+1. Java - Object oriented programming and Swing practice
+3. maths - linear algebra,calculusand matrices
+7. operating system - priocess managment, CPU scheduling
+6. Software engineering - development models,use case diiagrams,dfd models
+
+Tasks
+-----
+ID: 7 | Subject: Design analysis algorithm | Title: PYQ | Type: Revision | Deadline: 2025-12-05 | Priority: Low | Status: Completed
+ID: 8 | Subject: Elements of ai/ml | Title: Quiz | Type: Revision | Deadline: 2025-12-25 | Priority: Low | Status: Completed
+ID: 1 | Subject: maths | Title: assignment | Type: Study | Deadline: 2026-05-03 | Priority: High | Status: Completed
+ID: 3 | Subject: computer organizaion and architecture | Title: assignment | Type: Study | Deadline: 2026-05-08 | Priority: High | Status: Pending
+ID: 2 | Subject: DBMS | Title: class test | Type: Study | Deadline: 2026-05-10 | Priority: High | Status: Pending
+ID: 6 | Subject: Data science | Title: pratice paper | Type: Revision | Deadline: 2026-05-11 | Priority: Low | Status: Pending
+ID: 5 | Subject: Java | Title: coding questions | Type: Revision | Deadline: 2026-05-13 | Priority: Medium | Status: Pending
+ID: 9 | Subject: Software engineering | Title: practice paper | Type: Revision | Deadline: 2026-05-15 | Priority: Medium | Status: Pending
+ID: 4 | Subject: DCN | Title: pratice paper | Type: Revision | Deadline: 2026-05-25 | Priority: Medium | Status: Pending
